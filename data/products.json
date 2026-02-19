@@ -1,1 +1,14 @@
-[{"title":"sad"},{"title":"PachuPal 2"},{"title":"Lala Ram"},{"title":"Book2"},{"title":"BookTest"}]
+[
+  {
+    "title": "Book",
+    "imgUrl": "https://pngimg.com/uploads/book/book_PNG2111.png",
+    "description": "Random Book",
+    "price": "169"
+  },
+  {
+    "title": "Lorem Ipsum",
+    "imgUrl": "https://m.media-amazon.com/images/I/51rGora4T5L._AC_UF1000,1000_QL80_.jpg",
+    "description": "Lorem Ipsom is a standard dummy text",
+    "price": "259"
+  }
+]
