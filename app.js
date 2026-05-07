@@ -2,6 +2,7 @@ const http = require('http');
 const bodyParser = require('body-parser');
 const path = require('path');
 const express = require('express');
+const db = require('./util/database');
 const app = express();
 
 app.set('view engine', 'ejs');
