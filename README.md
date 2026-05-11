@@ -1,10 +1,10 @@
-# 🛒 Product Management App
+#  Product Management App
 
 A server-side rendered web application built using **Node.js**, **Express**, and **EJS**, following the **MVC architecture**.
 
 ---
 
-## 🚀 Features
+##  Features
 
 - Add new products with title, image URL, price, and description
 - View all products in a structured grid layout
@@ -14,7 +14,7 @@ A server-side rendered web application built using **Node.js**, **Express**, and
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Backend:** Node.js, Express
 - **Templating:** EJS
@@ -23,12 +23,12 @@ A server-side rendered web application built using **Node.js**, **Express**, and
 
 ---
 
-## ⚙️ Getting Started
+## To Get Started:
 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/NodeApp.git
+git clone https://github.com/Rishav256/NodeApp.git
 cd NodeApp
 ```
 
@@ -52,17 +52,16 @@ http://localhost:3000
 
 ---
 
-## 📌 Notes
+##  Notes
 
 - This project currently uses file-based storage for simplicity.
-- Planned improvements:
+- Planned future improvements:
   - Database integration (MongoDB)
   - Authentication system
   - Deployment setup
 
 ---
 
-## 👨‍💻 Author
 
-Rishav256
-:)
+## -Rishav256
+## :)
